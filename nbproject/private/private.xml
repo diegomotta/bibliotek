@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/CRUDEmpleado.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/controladores/ControladorEditorial.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/clases/Ejemplar.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/CRUDAutor.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/clases/Autor.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/controladores/ControladorPersona.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/FormLector.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/CRUDLector.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/FormEmpleado.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/CRUDEjemplar.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/FormAutor.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/CRUDLibro.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/biblioteca/Biblioteca.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/controladores/ControladorPrincipal.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/clases/Libro.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/VistaPrincipal.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/FormEditorial.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/FormLibro.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/controladores/ControladorBiblioteca.java</file>
+            <file>file:/home/diego/Documentos/Biblioteca/src/vistas/CRUDEditorial.java</file>
+        </group>
+    </open-files>
+</project-private>
